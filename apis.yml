@@ -1,22 +1,95 @@
 aid: forterro
 name: Forterro
-description: Forterro is a company surfaced as a portfolio company of battery-ventures and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Forterro is a pan-European industrial software company, founded in 2012 and
+  headquartered in London, that provides enterprise resource planning (ERP) and
+  specialised business software to the industrial mid-market. Built through a
+  series of acquisitions, Forterro operates a portfolio of regional and vertical
+  ERP brands - including Abas, Jeeves, Garp, Proconcept, Sylob, Silog, Myfactory,
+  Orderwise, Clipper, 123Insight, BPSC, Helios, Proffix, Prodaso and its
+  cloud-native Fortee product - alongside best-in-class point solutions such as
+  warehouse management (WMS), point of sale (POS), material requirements planning
+  (MRP) and business intelligence. The company serves more than 13,000 industrial
+  businesses across manufacturing, warehousing, wholesale and retail from 40+
+  offices worldwide.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.forterro.com/sites/forterro/forterro-logo-white.svg
 url: https://raw.githubusercontent.com/api-evangelist/forterro/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - battery-ventures
-x-tier: stub
-x-tier-reason: portfolio-lead
+x-tier: profiled
+x-tier-reason: portfolio-lead-enriched
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- ERP
+- Enterprise Resource Planning
+- Industrial Software
+- Manufacturing
+- Warehouse Management
+- Business Intelligence
+- Supply Chain
 apis: []
+common:
+- type: VulnerabilityDisclosure
+  url: security/forterro-vulnerability-disclosure.yml
+- type: Security
+  url: https://www.forterro.com/.well-known/security.txt
+- type: DomainSecurity
+  url: security/forterro-domain-security.yml
+- type: Website
+  url: https://www.forterro.com/en
+- type: About
+  url: https://www.forterro.com/en/company/about
+- type: Products
+  url: https://www.forterro.com/en/products
+- type: Software
+  url: https://www.forterro.com/en/software
+- type: Support
+  url: https://www.forterro.com/en/services/support
+- type: Blog
+  url: https://www.forterro.com/en/blog
+- type: News
+  url: https://www.forterro.com/en/company/news-media
+- type: Careers
+  url: https://www.forterro.com/en/company/careers
+- type: Team
+  url: https://www.forterro.com/en/company/leadership
+- type: Contact
+  url: https://www.forterro.com/en/company/contact
+- type: PrivacyPolicy
+  url: https://www.forterro.com/en/company/privacy-policy
+- type: TermsOfService
+  url: https://www.forterro.com/en/company/terms-of-use
+- type: LinkedIn
+  url: https://www.linkedin.com/company/forterro
+- type: WellKnown
+  url: well-known/forterro-well-known.yml
+- type: SecurityTxt
+  url: well-known/forterro-security.txt
+- type: LLMsTxt
+  url: llms/forterro-llms.txt
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

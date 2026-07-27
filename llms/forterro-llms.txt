@@ -1,0 +1,31 @@
+# Forterro
+
+> Forterro is a pan-European industrial software company (founded 2012, headquartered in London) that provides enterprise resource planning (ERP) and specialised business software to the industrial mid-market. It operates a portfolio of regional and vertical ERP brands and point solutions serving more than 13,000 industrial businesses across manufacturing, warehousing, wholesale, and retail. Forterro does not publish a unified public developer/API portal or OpenAPI definitions; APIs are delivered per product (for example the cloud-native Fortee platform's "open APIs" and product-specific supply-chain integration APIs) and are typically accessed through the relevant product or by contacting Forterro.
+
+## Company
+- [Website](https://www.forterro.com/en)
+- [About](https://www.forterro.com/en/company/about)
+- [Leadership](https://www.forterro.com/en/company/leadership)
+- [Contact](https://www.forterro.com/en/company/contact)
+- [Careers](https://www.forterro.com/en/company/careers)
+
+## Products
+- [Software overview](https://www.forterro.com/en/software)
+- [All products](https://www.forterro.com/en/products)
+- [Fortee (cloud ERP with open APIs)](https://www.forterro.com/en/product/fortee)
+
+## Services & Support
+- [Services overview](https://www.forterro.com/en/services)
+- [Support](https://www.forterro.com/en/services/support)
+
+## Content
+- [Blog & Articles](https://www.forterro.com/en/blog)
+- [News & Media](https://www.forterro.com/en/company/news-media)
+
+## Security & Legal
+- [security.txt](https://www.forterro.com/.well-known/security.txt)
+- [Privacy Policy](https://www.forterro.com/en/company/privacy-policy)
+- [Terms of Use](https://www.forterro.com/en/company/terms-of-use)
+
+## API Evangelist catalog
+- [Forterro apis.yml](https://raw.githubusercontent.com/api-evangelist/forterro/refs/heads/main/apis.yml)

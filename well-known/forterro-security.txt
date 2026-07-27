@@ -1,0 +1,9 @@
+Contact: mailto:security@forterro.com
+
+Preferred-Languages: en, fr, de
+
+Canonical: https://www.forterro.com/.well-known/security.txt
+Canonical: https://www.forterro.com/security.txt
+
+Hiring: https://www.forterro.com/en/company/careers
+Expires: 2026-01-28T12:00:00.000Z
